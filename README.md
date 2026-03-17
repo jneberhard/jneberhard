@@ -20,5 +20,5 @@ Data Analysis, Cloud Databases, .nodejs
 
 ## 🤝 Let’s Connect!
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
-Here is my [[LinkedIn](https://www.linkedin.com/in/james-eberhard-7582bb5/)](Your LinkedIn Profile Link) profile
+Here is my [LinkedIn](https://www.linkedin.com/in/james-eberhard-7582bb5/) profile
 If you want to collaborate, or just want to chat about software design patterns—drop me a message or explore my repos!
