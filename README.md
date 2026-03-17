@@ -28,8 +28,6 @@ Also Skilled At: Web development, Git & GitHub, collaborative projects
 ## 🚀 What Drives Me
 I thrive on designing systems with clean architecture and reusable components
 
-I enjoy contributing to and learning from open-source OOP projects
-
 I believe programming is as much about creativity as it is about logic. Automating tasks to speed up proceses is what I enjoy. 
 
 Currently working on a side project creating a Royalty Tracking System for music companies. 
