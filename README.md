@@ -37,6 +37,7 @@ Data Analysis, Cloud Databases
 
 ## 🔍 Project Highlights
 Website collaborator:  https://handcrafted-haven-gilt.vercel.app/
+Music Information Websie:  https://musicinfous.netlify.app/
 
 
 ## 🤝 Let’s Connect!
