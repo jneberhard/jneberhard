@@ -1,21 +1,23 @@
 ## Hi there 👋
  🔭 I’m currently working on getting a second degree, this time in Computer Software Development. 
 
-🌱 I’m currently learning C#, CSS, HTML, Javascript and know Phython
+## 🌱 I’m currently learning C#, CSS, HTML, Javascript and I know Phython
 
+I'm James Eberhard, a student at Brigham Young University-Idaho and current employee at Adobe (contract worker) with a drive for solving problems through code. My journey has taken me across a spectrum of technologies, but at my core, I’m passionate about building robust systems using object-oriented programming (OOP)—especially with C++ and C#. I enjoy dissecting complex problems and engineering solutions that are both elegant and efficient.
 
+## 🛠️ My Coding Toolbox
+Languages I Love: C++, C#, Python, JavaScript, HTML, CSS
+Specialties: Object-Oriented Programming, Software Design, Algorithms & Data Structures
+Also Skilled At: Web development, Git & GitHub, collaborative projects
+## 🚀 What Drives Me
+I thrive on designing systems with clean architecture and reusable components
+I enjoy contributing to and learning from open-source OOP projects
+I believe programming is as much about creativity as it is about logic—whether I’m coding a game, crafting utilities, or automating tasks
+## 🌱 Currently Exploring
+Data Analysis, Cloud Databases, .nodejs
 
-<!--
-**jneberhard/jneberhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 Project Highlights
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let’s Connect!
+LinkedIn
+If you want to collaborate, or just want to chat about software design patterns—drop me a message or explore my repos!
