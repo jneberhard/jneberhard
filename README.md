@@ -24,14 +24,17 @@ I'm James Eberhard, a student at Brigham Young University-Idaho and current empl
 </div>
 Specialties: Object-Oriented Programming, Software Design, Algorithms & Data Structures
 Also Skilled At: Web development, Git & GitHub, collaborative projects
+
 ## 🚀 What Drives Me
 I thrive on designing systems with clean architecture and reusable components
 I enjoy contributing to and learning from open-source OOP projects
 I believe programming is as much about creativity as it is about logic—whether I’m coding a game, crafting utilities, or automating tasks
+
 ## 🌱 Currently Exploring
-Data Analysis, Cloud Databases, .nodejs
+Data Analysis, Cloud Databases
 
 ## 🔍 Project Highlights
+
 
 ## 🤝 Let’s Connect!
 Here is my [LinkedIn](https://www.linkedin.com/in/james-eberhard-7582bb5/) profile
