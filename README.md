@@ -33,7 +33,7 @@ I believe programming is as much about creativity as it is about logic. Automati
 Currently working on a side project creating a Royalty Tracking System for music companies. 
 
 ## 🌱 Currently Exploring
-Data Analysis, Cloud Databases
+Data Analysis, Cloud Databases, Python Arcade
 
 ## 🔍 Project Highlights
 Website collaborator:  https://handcrafted-haven-gilt.vercel.app/
